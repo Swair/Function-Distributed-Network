@@ -1,0 +1,3 @@
+[submodule "dep/workflow"]
+	path = dep/workflow
+	url = https://gitee.com/sogou/workflow.git
